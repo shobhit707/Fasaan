@@ -56,48 +56,5 @@ Agriculture presently occupies one-third of the world's land surface. For a big 
 
 
 
-## :sparkles: Instructions to contribute 
-
-To contribute fork this repository and clone it. Make changes and create a pull request. Follow the step below to contribute.
-
-#### Add your email and user name in git bash 
-`$ git config --global user.name "YOUR NAME"`
-<br>
-` $ git config --global user.email "YOUR EMAIL ADDRESS"`
-
-#### Fork the repo
-On the upper right you can see a option to fork the repository. Fork it to make changes. 
-
-#### Clone the project
-Use the below command to clone the repo into your local system.
-
-` $ git clone https://hariketsheth/Fasaan---Envisioning-Farms-for-Future.git `
-
-#### Add upstream to repository 
-`$ cd <your-forked-project-folder>`<br>
-`$ git remote add upstream https://github.com/hariketsheth/Fasaan---Envisioning-Farms-for-Future.git` <br>
-`$ git checkout main`<br>
-`$ git fetch upstream`<br>
-`$ git merge upstream/main`<br>
-`$ git push origin main`<br>
-
-#### Creating branch for the new change on feature or bug fix
-`$ git checkout -b <feature-branch>`<br>
-`$ git add --all`<br>
-`$ git commit -m "<commit message>"`<br>
-
-#### Creating pull request
-`$ git push origin main`
-
-## :sparkles: Get in touch with us 
-<a href="https://twitter.com/athena-arms " target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a  href="https://www.instagram.com/athena-edu /"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- <a href="mailto:athena.help@gmail.com "><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <a href="mailto:contact.athena@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-## :sparkles: License
-
-
-[![GPLv3 License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/)
 
 
