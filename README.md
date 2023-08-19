@@ -41,18 +41,7 @@ Agriculture presently occupies one-third of the world's land surface. For a big 
 
 </p>
 
-## :sparkles: Project Information
-[![Language Used](https://img.shields.io/badge/FrontEnd-HTML,%20CSS,%20JavaScript,%20JQuery,%20React-blue)](https://github.com/hariketsheth/Fasaan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Build](https://img.shields.io/badge/build-passing-green)](https://github.com/hariketsheth/Fasaan)
 
-[![Language Used](https://img.shields.io/badge/Backend-JavaScript,%20NodeJS,%20TypeScript-red)](https://github.com/hariketsheth/Fasaan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-
-## :sparkles: Instructions for Cloning this Repository Locally
-- Use the command: `git clone https://github.com/hariketsheth/Fasaan---Envisioning-Farms-for-Future`
-- Run `npm install` or `yarn` separately in root directory, frontend, backend and analysis directory
-- Use `yarn start` or `npm start` to start the project on local server
 
 
 
